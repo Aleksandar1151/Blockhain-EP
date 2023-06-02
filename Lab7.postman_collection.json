@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "5de4c26f-0ad8-44dd-9dce-329816bf58fa",
+		"name": "Lab7",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "27608343"
+	},
+	"item": [
+		{
+			"name": "GetChain",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:5000/get-chain"
+			},
+			"response": []
+		},
+		{
+			"name": "AddData",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

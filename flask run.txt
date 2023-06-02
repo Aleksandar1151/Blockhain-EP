@@ -1,0 +1,11 @@
+set FLASK_APP=main.py
+flask run
+
+{
+    "Povrsina parcele" : 800,
+    "Prodajna cijena" : 50000,
+    "Prethodni vlasnik" : "Mirko Markovic",
+    "Trenutni vlasnik" : "Pero Peric",
+    "Dan zakljucavanje kupoprodajnog ugovora" : "31.5.2023",
+    "Adresa" : "Ulica 7, Novi Grad"
+}
